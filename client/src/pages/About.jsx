@@ -1,21 +1,87 @@
+
 import { usePageTitle } from "../hooks/useFetch.js";
 import { PageHead } from "../components/ui.jsx";
 
 export default function About() {
-  usePageTitle("About and data sources");
+  usePageTitle("About TheNextStep");
+
   return (
     <>
-      <PageHead title="About this project" sub="How the information is collected, and what to double-check." />
+      <PageHead
+        title="About TheNextStep"
+        sub="Explore your options. Discover your future. Take your next step with confidence."
+      />
+
       <div className="prose">
-        <h2>Where the data comes from</h2>
+        <h2>What is TheNextStep?</h2>
+        <p>
+          TheNextStep is a career guidance and educational discovery
+          platform designed to help students explore opportunities
+          and make informed decisions about their future. It brings
+          important educational information together in one place,
+          helping students discover study options, scholarships, and
+          international education opportunities.
+        </p>
+
+        <h2>What can you explore?</h2>
+
+        <h3>1. Career and Degree Exploration</h3>
+        <p>
+          Explore different bachelor's degree options based on your
+          educational background and interests. Understand course
+          duration, eligibility requirements, and possible entrance
+          routes to help you make informed decisions about your studies.
+        </p>
+
+        <h3>2. Scholarships</h3>
+        <p>
+          Discover scholarship opportunities, including Karnataka
+          government schemes and selected national and international
+          scholarships. Explore available information and visit official
+          websites to verify eligibility, benefits, and application deadlines.
+        </p>
+
+        <h3>3. Study Abroad</h3>
+        <p>
+          Explore universities across different countries and discover
+          international education opportunities. Use the available
+          university information as a starting point to research
+          institutions and plan your future studies.
+        </p>
+
+        <h2>Who is TheNextStep for?</h2>
         <ul>
-          <li><b>Degrees:</b> the catalog is built from a list of bachelor's degrees plus rules for each degree family (stream, duration, eligibility, entrance route). Every degree links to an official source. Entries marked "Unverified" follow the usual rules and have not been checked individually yet.</li>
-          <li><b>Scholarships:</b> Karnataka government schemes (for studying in India and abroad) come first, then national and international options. Each entry links to the official page. Amounts and deadlines show "check the official page" until they are confirmed.</li>
-          <li><b>Universities:</b> a public dataset (Hipolabs Universities API). It does not include every university, and some website links may be outdated.</li>
+          <li>
+            Students who have completed Class 12 and want to explore
+            degree options.
+          </li>
+          <li>
+            Students who want to understand course eligibility and
+            educational pathways.
+          </li>
+          <li>
+            Students looking for scholarship opportunities to support
+            their education.
+          </li>
+          <li>
+            Students interested in pursuing higher education abroad.
+          </li>
         </ul>
-        <h2>Please note</h2>
-        <p>This site is a discovery tool, not an admissions or financial advisor. Dates, eligibility and fees change often, so always confirm them on the official website before you apply.</p>
-        <p>Found something wrong? Use the "Report outdated or wrong info" link on a degree or scholarship.</p>
+
+        <h2>Our Goal</h2>
+        <p>
+          Our goal is to make educational information easier to discover
+          and understand, helping students identify opportunities,
+          compare their options, and take their next step with confidence.
+        </p>
+
+        <h2>A Note for Users</h2>
+        <p>
+          TheNextStep is an educational discovery platform. Eligibility
+          requirements, scholarship details, deadlines, fees, and
+          admissions policies may change. Always verify the latest
+          information on the relevant official website before applying.
+        </p>
       </div>
     </>
   );
