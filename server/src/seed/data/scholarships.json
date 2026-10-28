@@ -1,0 +1,393 @@
+[
+ {
+  "name": "Prabuddha Overseas Scholarship",
+  "slug": "prabuddha-overseas",
+  "sourceName": "Social Welfare Department, Government of Karnataka",
+  "description": "Karnataka government scholarship for SC/ST students to study abroad.",
+  "eligibility": "SC/ST students who are permanent residents of Karnataka and have admission to a full-time degree at an overseas university. Income rules apply; check the official page.",
+  "level": "Any",
+  "section": "karnataka-abroad",
+  "categories": [
+   "SC/ST"
+  ],
+  "categoryTags": [
+   "all"
+  ],
+  "officialUrl": "https://myscheme.gov.in/hi/schemes/pdos",
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "D. Devaraj Urs Foreign Scholarship",
+  "slug": "devaraj-urs-foreign",
+  "sourceName": "Backward Classes Welfare Department, Government of Karnataka",
+  "description": "Karnataka government scholarship for backward-class (OBC) students pursuing higher studies abroad.",
+  "eligibility": "OBC students who are permanent residents of Karnataka, for Master's or PhD abroad. Age, marks and income rules apply; check the official page.",
+  "level": "PG",
+  "section": "karnataka-abroad",
+  "categories": [
+   "OBC"
+  ],
+  "categoryTags": [
+   "all"
+  ],
+  "officialUrl": "https://bcwd.karnataka.gov.in",
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "National Overseas Scholarship for Minority Students (Karnataka)",
+  "slug": "minorities-overseas-karnataka",
+  "sourceName": "Directorate of Minorities, Government of Karnataka",
+  "description": "Karnataka scheme for minority students going abroad for Master's, PhD or post-doctoral study. Applications are made on the Seva Sindhu portal.",
+  "eligibility": "Minority students of Karnataka. Notices differ by community, so check the notice for your community.",
+  "level": "PG",
+  "section": "karnataka-abroad",
+  "categories": [
+   "Minority"
+  ],
+  "categoryTags": [
+   "all"
+  ],
+  "officialUrl": "https://sevasindhuservices.karnataka.gov.in/",
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "Karnataka Study Abroad Programme",
+  "slug": "karnataka-study-abroad-programme",
+  "sourceName": "Department of Skill Development, Government of Karnataka (KVTSDC)",
+  "description": "State programme that connects Karnataka students with foreign universities, with scholarships from several government departments and education loan support.",
+  "eligibility": "Karnataka students; programme rules and partner universities are listed on the official portal.",
+  "level": "Any",
+  "section": "karnataka-abroad",
+  "categories": [
+   "General"
+  ],
+  "categoryTags": [
+   "all"
+  ],
+  "officialUrl": "http://studyabroad.ksdckarnataka.com",
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "National Scholarship Portal (central and state schemes)",
+  "slug": "national-scholarship-portal",
+  "description": "One portal listing central and state scholarships, including post-matric schemes.",
+  "eligibility": "Varies by scheme (income, category, marks).",
+  "level": "UG/PG",
+  "categoryTags": [
+   "all"
+  ],
+  "sourceName": "Government of India",
+  "officialUrl": "https://scholarships.gov.in",
+  "section": "all-india",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "State Scholarship Portal (SSP) Karnataka",
+  "slug": "ssp-karnataka",
+  "description": "Karnataka government portal for post-matric scholarships.",
+  "eligibility": "Karnataka students; each scheme has its own category and income rules.",
+  "level": "UG/PG",
+  "categoryTags": [
+   "all"
+  ],
+  "sourceName": "Government of Karnataka",
+  "officialUrl": "https://ssp.postmatric.karnataka.gov.in",
+  "section": "karnataka-india",
+  "categories": [
+   "SC/ST",
+   "OBC",
+   "Minority",
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "INSPIRE Scholarship (DST)",
+  "slug": "inspire-dst",
+  "description": "Government of India scheme supporting students who pursue science programmes.",
+  "eligibility": "Varies; check the official scheme page.",
+  "level": "UG/PG",
+  "categoryTags": [
+   "science-and-research"
+  ],
+  "sourceName": "Department of Science and Technology, Govt. of India",
+  "officialUrl": "https://online-inspire.gov.in",
+  "section": "all-india",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "DAAD Scholarships (Germany)",
+  "slug": "daad-germany",
+  "description": "German academic exchange service funding for study in Germany.",
+  "eligibility": "Varies by programme.",
+  "level": "PG",
+  "categoryTags": [
+   "engineering-and-technology",
+   "computer-and-it",
+   "science-and-research"
+  ],
+  "sourceName": "DAAD",
+  "officialUrl": "https://www.daad.de/en/",
+  "section": "international",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "Chevening Scholarships (UK)",
+  "slug": "chevening-uk",
+  "description": "UK government funded master's scholarships.",
+  "eligibility": "Work experience and eligible country requirements.",
+  "level": "PG",
+  "categoryTags": [
+   "commerce-and-finance",
+   "management-and-business",
+   "law"
+  ],
+  "sourceName": "UK Government",
+  "officialUrl": "https://www.chevening.org",
+  "section": "international",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "Fulbright-Nehru Fellowships",
+  "slug": "fulbright-nehru",
+  "description": "Indo-US fellowships for study and research in the USA.",
+  "eligibility": "Varies by fellowship type.",
+  "level": "PG",
+  "categoryTags": [
+   "science-and-research",
+   "arts-and-humanities",
+   "law"
+  ],
+  "sourceName": "USIEF",
+  "officialUrl": "https://www.usief.org.in",
+  "section": "international",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "Central Sector Scheme of Scholarship for College and University Students",
+  "slug": "central-sector-scholarship",
+  "description": "Central government scholarship for meritorious students in college and university courses, applied for through the National Scholarship Portal.",
+  "eligibility": "Based on Class 12 results and a family income limit; see the portal for current rules.",
+  "level": "UG/PG",
+  "categoryTags": [
+   "all"
+  ],
+  "sourceName": "Government of India (National Scholarship Portal)",
+  "officialUrl": "https://scholarships.gov.in",
+  "section": "all-india",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "AICTE Pragati Scholarship for Girls",
+  "slug": "aicte-pragati",
+  "description": "AICTE scheme supporting girl students in approved technical degree and diploma programmes.",
+  "eligibility": "Girl students in AICTE-approved technical programmes; income limits apply. Check the official page.",
+  "level": "UG",
+  "categoryTags": [
+   "engineering-and-technology",
+   "computer-and-it"
+  ],
+  "sourceName": "AICTE",
+  "officialUrl": "https://www.aicte-india.org",
+  "section": "all-india",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "AICTE Saksham Scholarship",
+  "slug": "aicte-saksham",
+  "description": "AICTE scheme supporting specially abled students in approved technical programmes.",
+  "eligibility": "Specially abled students in AICTE-approved technical programmes; income limits apply. Check the official page.",
+  "level": "UG",
+  "categoryTags": [
+   "engineering-and-technology",
+   "computer-and-it"
+  ],
+  "sourceName": "AICTE",
+  "officialUrl": "https://www.aicte-india.org",
+  "section": "all-india",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "Reliance Foundation Undergraduate Scholarships",
+  "slug": "reliance-foundation-ug",
+  "description": "Scholarships for undergraduate students from Reliance Foundation.",
+  "eligibility": "Merit and income criteria apply; see the official site.",
+  "level": "UG",
+  "categoryTags": [
+   "all"
+  ],
+  "sourceName": "Reliance Foundation",
+  "officialUrl": "https://www.scholarships.reliancefoundation.org",
+  "section": "all-india",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "JN Tata Endowment Loan Scholarship",
+  "slug": "jn-tata-endowment",
+  "description": "Support for Indian students going abroad for higher studies.",
+  "eligibility": "Indian students planning postgraduate or doctoral study abroad; see the official criteria.",
+  "level": "PG",
+  "categoryTags": [
+   "all"
+  ],
+  "sourceName": "JN Tata Endowment",
+  "officialUrl": "https://www.jntataendowment.org",
+  "section": "international",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "Inlaks Shivdasani Foundation Scholarships",
+  "slug": "inlaks-shivdasani",
+  "description": "Scholarships for Indian students pursuing postgraduate study at leading universities abroad.",
+  "eligibility": "Varies by year; see the foundation's site.",
+  "level": "PG",
+  "categoryTags": [
+   "all"
+  ],
+  "sourceName": "Inlaks Shivdasani Foundation",
+  "officialUrl": "https://www.inlaksfoundation.org",
+  "section": "international",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "Erasmus Mundus Joint Masters",
+  "slug": "erasmus-mundus",
+  "description": "European Union funded joint master's programmes studied at universities in several European countries.",
+  "eligibility": "Varies by programme; each programme sets its own application rules.",
+  "level": "PG",
+  "categoryTags": [
+   "all"
+  ],
+  "sourceName": "European Commission (Erasmus+)",
+  "officialUrl": "https://erasmus-plus.ec.europa.eu",
+  "section": "international",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "Japanese Government (MEXT) Scholarship",
+  "slug": "mext-japan",
+  "description": "Japanese government scholarship for international students to study in Japan.",
+  "eligibility": "Varies by category (undergraduate, research student and others); see the Embassy of Japan in India.",
+  "level": "UG/PG",
+  "categoryTags": [
+   "all"
+  ],
+  "sourceName": "Embassy of Japan in India",
+  "officialUrl": "https://www.in.emb-japan.go.jp",
+  "section": "international",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ },
+ {
+  "name": "Gates Cambridge Scholarship",
+  "slug": "gates-cambridge",
+  "description": "Fully funded scholarships for master's and doctoral study at the University of Cambridge.",
+  "eligibility": "Applicants from outside the UK; see the official site for criteria.",
+  "level": "PG",
+  "categoryTags": [
+   "all"
+  ],
+  "sourceName": "Gates Cambridge Trust",
+  "officialUrl": "https://www.gatescambridge.org",
+  "section": "international",
+  "categories": [
+   "General"
+  ],
+  "benefits": null,
+  "deadline": null,
+  "status": "unverified",
+  "lastVerified": null
+ }
+]
